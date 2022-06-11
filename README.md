@@ -14,7 +14,7 @@ INFO-2350 Intro to Computer Science - [Western Nebraska Community College](https
 ### Purpose
 I am an Information Technology Instructor at Western Nebraska Community College. I teach Information Technology, CyberSecurity and Computer Science.
 
-This repository is for INFO-2350 Intro to Computer Science 1. We cover Python, Java, and C++. In the current software development environment, it is good to learn more than one language. Learning the concepts is what is important, not memorizing the syntax.
+This repository is for INFO-2350 Intro to Computer Science 1. We cover Python, Java, and C++. In the current software development environment, it is good to learn more than one language. Learning the concepts is what is important, not memorizing the syntax. 
 
 
 ### License
