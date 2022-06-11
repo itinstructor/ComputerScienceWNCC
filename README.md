@@ -6,6 +6,7 @@ INFO-2350 Intro to Computer Science - [Western Nebraska Community College](https
 - Java
   - [Think Java 2 Interactive](https://books.trinket.io/thinkjava2/)
 - C++
+  - [Fundamentals of C++ Programming](./CPP%20Book/Fundamentals%20of%20Cplusplus%20Programming.pdf)
 
 ### Changes
 - 06/01/2022: Initial Upload
