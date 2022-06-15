@@ -5,15 +5,17 @@
 
 ### Contents
 - Python
+  - [Think Python 2e](http://greenteapress.com/thinkpython2/thinkpython2.pdf) (Open Educational Resource book by Allen Downey, Creative Commons license)
 - Java
-  - [Think Java 2 Interactive](https://books.trinket.io/thinkjava2/) (Open Educational Resource book by Allen Downey and Chris Mayfield, Creative Commons license)
+  - [Think Java 2 Interactive](https://books.trinket.io/thinkjava2/) (Open Educational Resource book by Allen Downey and Chris Mayfield, Creative Commons License)
 - C++
-  - [Fundamentals of C++ Programming](./CPP%20Activities/Fundamentals%20of%20Cplusplus%20Programming.pdf) (Open Educational Resource book by Richard Halterman, Creative Commons license)
+  - [Think C++](http://www.greenteapress.com/thinkcpp/thinkCScpp.pdf) (Open Educational Resource book by Allen Downey, Creative Commons License)
+  - [Fundamentals of C++ Programming](./CPP%20Activities/Fundamentals%20of%20Cplusplus%20Programming.pdf) (Open Educational Resource book by Richard Halterman, Creative Commons License)
 
 ### Purpose
 I am an Information Technology Instructor at Western Nebraska Community College. I teach Information Technology, CyberSecurity and Computer Science.
 
-This repository is for all WNCC Computer Science Courses. We cover Python, Java, and C++.
+This repository contains the resouces for all WNCC Computer Science Courses. We cover Python, Java, and C++.
 
 In the current software development environment, it is good to learn more than one language. Learning the concepts is what is important, not memorizing the syntax. Learning more than one language at a time helps generalize programming concepts.
 
