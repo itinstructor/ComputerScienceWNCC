@@ -1,4 +1,4 @@
-# INFO-2350 Intro To Computer Science
+# Computer Science WNCC
 INFO-2350 Intro to Computer Science - [Western Nebraska Community College](https://www.wncc.edu)
 
 ### Contents
