@@ -6,7 +6,7 @@ INFO-2350 Intro to Computer Science - [Western Nebraska Community College](https
 - Java
   - [Think Java 2 Interactive](https://books.trinket.io/thinkjava2/) (Open Educational Resource book by Allen Downey and Chris Mayfield, Creative Commons license)
 - C++
-  - [Fundamentals of C++ Programming](./CPP%20Book/Fundamentals%20of%20Cplusplus%20Programming.pdf) (Open Educational Resource book by Richard Halterman, Creative Commons license)
+  - [Fundamentals of C++ Programming](./CPP%20Activities/Fundamentals%20of%20Cplusplus%20Programming.pdf) (Open Educational Resource book by Richard Halterman, Creative Commons license)
 
 ### Changes
 - 06/01/2022: Initial Upload
